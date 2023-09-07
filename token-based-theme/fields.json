@@ -41,6 +41,25 @@
         "default": {
           "color": "#F8FAFC"
         }
+      },
+      {
+        "label": "Third",
+        "name": "third",
+        "type": "color",
+        "alternate_names": ["third_color"],
+        "visibility": {
+          "hidden_subfields": {
+            "opacity": true
+          }
+        },
+        "inherited_value": {
+          "property_value_paths": {
+            "color": "brand_settings.colors[1]"
+          }
+        },
+        "default": {
+          "color": "#fff"
+        }
       }
     ]
   },
