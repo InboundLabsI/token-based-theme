@@ -45,8 +45,7 @@
       {
         "label": "Third",
         "name": "third",
-        "type": "color",
-        "alternate_names": ["third_color"],
+        "type": "color",       
         "visibility": {
           "hidden_subfields": {
             "opacity": true
@@ -58,7 +57,7 @@
           }
         },
         "default": {
-          "color": "#F8FAFC"
+          "color": "#010101"
         }
       }
     ]
