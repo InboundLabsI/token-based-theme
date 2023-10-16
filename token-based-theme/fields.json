@@ -59,6 +59,24 @@
         "default": {
           "color": "#010101"
         }
+      },
+      {
+        "label": "Forth",
+        "name": "forth",
+        "type": "color",       
+        "visibility": {
+          "hidden_subfields": {
+            "opacity": true
+          }
+        },
+        "inherited_value": {
+          "property_value_paths": {
+            "color": "brand_settings.colors[1]"
+          }
+        },
+        "default": {
+          "color": "#010101"
+        }
       }
     ]
   },
